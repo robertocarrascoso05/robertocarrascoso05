@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Roberto
 
-<!--
-**robertocarrascoso05/robertocarrascoso05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Grado Medio en Sistemas Microinformáticos y Redes** con enfoque en desarrollo de software y administración de sistemas.  
+💻 Apasionado por la programación, la tecnología y el aprendizaje continuo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+- 🧠 Aprendiendo **programación**, **redes** y **administración de sistemas**.  
+
+---
+
+## 💡 Tecnologías y herramientas
+
+| Categoría | Tecnologías |
+|------------|--------------|
+| 💬 Lenguajes | Python, HTML, CSS, JavaScript |
+| ⚙️ Sistemas | Ubuntu, Windows, VirtualBox |
+| 🧰 Herramientas | VSCode, Git, GitHub |
+| ☁️ Otros | Redes, Mantenimiento de equipos y Redes |
+
+---
+
+## 📈 Objetivos a corto plazo
+
+- Mejorar en **desarrollo web y de aplicaciones**.  
+- Aprender **bases de datos** y **JavaScript**.  
+
+---
+
+## 📫 Contacto
+
+📧 robertocarrascoso05@gmail.com 
