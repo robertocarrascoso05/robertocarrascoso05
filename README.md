@@ -5,12 +5,6 @@
 
 ---
 
-## 🚀 Sobre mí
-
-- 🧠 Aprendiendo **programación**, **redes** y **administración de sistemas**.  
-
----
-
 ## 💡 Tecnologías y herramientas
 
 | Categoría | Tecnologías |
@@ -31,4 +25,4 @@
 
 ## 📫 Contacto
 
-📧 robertocarrascoso05@gmail.com 
+📧 robertocarrascoso05@gmail.com
